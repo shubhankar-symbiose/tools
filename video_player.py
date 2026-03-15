@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 Synchronized Multi-Video Player
 A GUI application for playing multiple videos simultaneously with synchronized controls
